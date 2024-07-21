@@ -85,3 +85,4 @@ urllib3==2.2.2
 virtualenv==20.26.3
 watchdog==4.0.1
 wcwidth==0.2.13
+pyenv local== 3.8.x
